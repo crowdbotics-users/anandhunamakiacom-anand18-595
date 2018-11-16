@@ -1,0 +1,20 @@
+{
+  "name": "anandhunamakiacom_anand18_595",
+  "version": "0.1.0",
+  "description": "SearchNRecruit  helps recruiters determine if a professional may be looking for a change in job. It then provide the necessary contact information for the recruiter to reach out to the professional This web_extension application was built with Crowdbotics www.crowdbotics.com",
+  "license": "UNLICENSED",
+  "private": true,
+  "author": {
+    "name": "anand18",
+    "email": "anand@hunamakia.com"
+  },
+  "contributors": [
+  ],
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "generate-json-webpack-plugin": "^0.2.2",
+    "web-ext": "^2.2.2",
+    "webpack": "^3.8.1"
+  },
+  "dependencies": {}
+}
